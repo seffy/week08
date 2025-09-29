@@ -22,7 +22,7 @@ on:
       aks_resource_group:
         description: 'Resource Group of the AKS Cluster'
         required: true
-        default: 'jjsabanarg'
+        default: 'deakinuni'
 
   workflow_call:
     inputs:
